@@ -130,4 +130,20 @@ table tr td{
     width: 20%;
     margin: 10% auto;
     padding: 2%;
+    background-image: url(../images/login.jpg);
+    font-weight: 500;
+    
+    
+}
+.design{
+    background-image: url(../images/momo.jpg);
+
+}
+.hero{
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/login1.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
 }

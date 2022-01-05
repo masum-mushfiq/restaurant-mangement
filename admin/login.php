@@ -2,12 +2,12 @@
 
 <html>
     <head>
-        <title>Login - Food Order System</title>
+        <title>Login - Restaurant Management System</title>
         <link rel="stylesheet" href="../css/admin.css">
     </head>
 
     <body>
-        
+        <div class="hero">
         <div class="login">
             <h1 class="text-center">Login</h1>
             <br><br>
@@ -36,9 +36,22 @@
             <input type="submit" name="submit" value="Login" class="btn-primary">
             <br><br>
             </form>
+            <br>
             <!-- Login Form Ends HEre -->
+            <div class="btn">
+            <p class="text-center"> <a href="signup.html">Sign Up</a></p>
+            <br><br>
 
+            </div>
+            
+            <div class="btn">
+            <p class="text-center"> <a href="forgotpassword.html">Forgot Password</a></p>
+            <br><br>
+
+            </div>
             <p class="text-center">Created By - <a href="https://www.linkedin.com/in/md-masum-mushfiq-9a82ab222/" target="_blank">Masum Mushfiq</a></p>
+            
+        </div>
         </div>
 
     </body>
